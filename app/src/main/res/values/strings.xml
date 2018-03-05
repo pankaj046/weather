@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Weather Now</string>
+
+    <string name="textview">TextView</string>
+
+    <string name="dt">Today, 10 March 2018</string>
+    <string name="temp">2 °C</string>
+    <string name="place">Delhi</string>
+
+    <string name="mint">min temp</string>
+    <string name="maxt">max temp</string>
+
+    <string name="hum">humidity</string>
+
+    <string name="wind">Wind</string>
+
+
+    <string name="htemp">Hourly Temperature</string>
+
+
+</resources>
